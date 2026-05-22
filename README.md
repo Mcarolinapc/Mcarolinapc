@@ -9,7 +9,7 @@ I stand out for my hybrid profile: I love diving into the code (**Kotlin, Java, 
 ---
 
 ##  Featured Project
-📌 **[Boostar](https://github.com/Mcarolinapc/Boostar):** An e-commerce mobile app with **Augmented Reality (AR)** developed in a cross-institutional collaboration. I led this project as **Product Owner and Fullstack Developer**, overseeing a 3-month R&D phase and coordinating cross-functional teamwork, which included onsite hybrid coworking sessions in Mallorca.
+📌 **[Boostar](https://github.com/Mcarolinapc/Boostar_CameraKit_Android):** An e-commerce mobile app with **Augmented Reality (AR)** developed in a cross-institutional collaboration. I led this project as **Product Owner and Fullstack Developer**, overseeing a 3-month R&D phase and coordinating cross-functional teamwork, which included onsite hybrid coworking sessions in Mallorca.
 
 ---
 
